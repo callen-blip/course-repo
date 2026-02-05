@@ -1623,7 +1623,6 @@ git restore / git reset / git revert
    - Clone your fork using SSH
    - Add your name to Contributors.md
    - Create a pull request
-
 ## More Practice
 
 3. **Basic Git workflow**
