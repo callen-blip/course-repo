@@ -5,3 +5,7 @@
 
 ## Slide Decks
 
+## Technologies Used
+<p>SCSS
+CSS</p>
+
