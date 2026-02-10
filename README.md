@@ -4,7 +4,9 @@
 This github is for the slide decks for the Professional development course at the University of Southern Maine taught by James Quinlan.
 
 [Topic 1](src/topic.qmd)
+
 [Topic 2](src/topic.qmd)
+
 [Topic 3](src/topic.qmd)
 
 
