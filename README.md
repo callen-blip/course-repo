@@ -1,7 +1,5 @@
 # COS 470 Professional Development Course
 
-# Modified By Ben Lufuta - 02/06/2026
-
 ## Slide Decks
 This github is for the slide decks for the Professional development course at the University of Southern Maine taught by James Quinlan.
 
@@ -12,6 +10,27 @@ src/        # Source code
 docs/       # Documentation
 README.md   # Project overview
 ```
+
+
+
+## Sign Commits
+
+Make sure you have a ssh key.
+
+```
+  ssh-keygen -t ed25519 -C "description or email"
+```
+
+Copy this generated public key to GitHub.  It is found in:
+```
+  cat ~/.ssh/id_ed25519.pub
+```
+
+## Clone the repository:
+```bash
+   git clone git@github.com/username/repo-name.git
+````
+
 
 ## License
 This project is licensed under the MIT License.
